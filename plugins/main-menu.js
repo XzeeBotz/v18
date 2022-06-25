@@ -508,14 +508,14 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedButtons: [{
             urlButton: {
                displayText: 'Website Creator',
-               url: web
+               url: https://xzeebotz.github.io
              }
 
            },
              {
              urlButton: {
-               displayText: 'Group Bot', 
-               url: gc
+               displayText: 'Script', 
+               id: .sc
              }
 
            },
